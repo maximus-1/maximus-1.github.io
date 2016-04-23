@@ -1,4 +1,9 @@
 h1 {
 font-size: 72px;
 text-decoration: underline;
+font-family: 'Julius Sans One';
+}
+
+p {
+font-family: 'Crimson Text';
 }
