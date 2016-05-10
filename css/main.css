@@ -9,3 +9,10 @@ font-family: 'Julius Sans One', sans-serif;
 p {
 font-family: 'Crimson Text', serif;
 }
+
+a:hover { 
+  text-decoration: none;
+  border: 1px dotted #ccc;
+  padding-bottom: 5px;
+}
+
