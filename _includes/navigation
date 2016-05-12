@@ -1,0 +1,12 @@
+<header role="banner">
+      <a href="/" title="Home" class="logo"><img src="http://www.placecage.com/g/200/150"></a>
+
+      <nav role="navigation">
+        <ul class="nav nav-pills">
+  <li role="presentation" class="active"><a href="#">Home</a></li>
+  <li role="presentation"><a href="#">Profile</a></li>
+  <li role="presentation"><a href="#">Messages</a></li>
+</ul>   
+ </nav>      
+      
+    </header>
