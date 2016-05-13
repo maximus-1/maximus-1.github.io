@@ -1,14 +1,19 @@
+html {
+  font-size: 10px;
+}
+
 body {
-  font-size: 18px;
+  font-size: 1rem;
   background-color: #f2eae4;
 }
 h1 {
-font-size: 3em;
+font-size: 3rem;
 font-family: 'Julius Sans One', sans-serif;
 }
 
 p {
 font-family: 'Crimson Text', serif;
+font-size: 1.3rem;
 }
 
 a:hover { 
