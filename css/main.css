@@ -1,4 +1,9 @@
-
+@font-face {
+font-family: “Regards”;
+src: url(“https://maxsydenham.com/fonts/regards-webfont.woff”) format(“woff”),
+url(“https://maxsydenham.com/fonts/regards-webfont.svg”) format(‘svg’),
+url(“https://maxsydenham.com/fonts/regards-webfont.woff2”) format(“woff2”);
+}
 
 body {
  font-size: ; 
@@ -6,7 +11,7 @@ body {
 }
 h1 {
 font-size: 5rem;
-font-family: 'Julius Sans One', sans-serif;
+font-family: 'Regards','Julius Sans One', sans-serif;
 }
 
 p {
