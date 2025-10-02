@@ -6,8 +6,9 @@ title: Max Sydenham
 
 # Max Sydenham
 
-This is my personal site set up using Jeykll and currently hosted on GitHub.
+I love making websites simpler, clearer, and more effective, so they actually do what they’re meant to do for everyone who visits them.
 
-I work in digital marketing and this site is my way of staying up-to-date on developments in content delivery & production.
+I mostly use this site to run experiments and try things out. Currently trying out serving this content via Jekyll on Github.
+
 
 [<i class="fa fa-linkedin-square" aria-hidden="true"></i> Come say hi on LinkedIn](https://www.linkedin.com/in/maxsydenham)
