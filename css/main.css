@@ -5,6 +5,8 @@
 @font-face {
 font-family: “Regards”;
 src: url(“https://maxsydenham.com/fonts/regards-webfont.woff”) format(“woff”),
+url(“https://maxsydenham.com/fonts/regards.ttf”) format(“ttf”),
+url(“https://maxsydenham.com/fonts/regards.otf”) format(“otf”),	
 url(“https://maxsydenham.com/fonts/regards-webfont.svg”) format(‘svg’),
 url(“https://maxsydenham.com/fonts/regards-webfont.woff2”) format(“woff2”);
 }
